@@ -1,0 +1,16 @@
+F:\CSharp\DecimalConverter\DecimalConverter\bin\Release\net5.0\DecimalConverter.exe
+F:\CSharp\DecimalConverter\DecimalConverter\bin\Release\net5.0\DecimalConverter.deps.json
+F:\CSharp\DecimalConverter\DecimalConverter\bin\Release\net5.0\DecimalConverter.runtimeconfig.json
+F:\CSharp\DecimalConverter\DecimalConverter\bin\Release\net5.0\DecimalConverter.runtimeconfig.dev.json
+F:\CSharp\DecimalConverter\DecimalConverter\bin\Release\net5.0\DecimalConverter.dll
+F:\CSharp\DecimalConverter\DecimalConverter\bin\Release\net5.0\ref\DecimalConverter.dll
+F:\CSharp\DecimalConverter\DecimalConverter\bin\Release\net5.0\DecimalConverter.pdb
+F:\CSharp\DecimalConverter\DecimalConverter\obj\Release\net5.0\DecimalConverter.csproj.AssemblyReference.cache
+F:\CSharp\DecimalConverter\DecimalConverter\obj\Release\net5.0\DecimalConverter.GeneratedMSBuildEditorConfig.editorconfig
+F:\CSharp\DecimalConverter\DecimalConverter\obj\Release\net5.0\DecimalConverter.AssemblyInfoInputs.cache
+F:\CSharp\DecimalConverter\DecimalConverter\obj\Release\net5.0\DecimalConverter.AssemblyInfo.cs
+F:\CSharp\DecimalConverter\DecimalConverter\obj\Release\net5.0\DecimalConverter.csproj.CoreCompileInputs.cache
+F:\CSharp\DecimalConverter\DecimalConverter\obj\Release\net5.0\DecimalConverter.dll
+F:\CSharp\DecimalConverter\DecimalConverter\obj\Release\net5.0\ref\DecimalConverter.dll
+F:\CSharp\DecimalConverter\DecimalConverter\obj\Release\net5.0\DecimalConverter.pdb
+F:\CSharp\DecimalConverter\DecimalConverter\obj\Release\net5.0\DecimalConverter.genruntimeconfig.cache

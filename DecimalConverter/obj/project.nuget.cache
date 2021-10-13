@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2vhyRzeYzRKlcLg2FA0qjKSqOFtuOwCtqdw72fF0c0lya9CEhLKCtHfry5Li84dlG3Cuz4L9iWFoYqwy8U1Jvg==",
+  "success": true,
+  "projectFilePath": "F:\\CSharp\\DecimalConverter\\DecimalConverter\\DecimalConverter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Windows\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.9\\microsoft.netcore.app.host.win-x64.5.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

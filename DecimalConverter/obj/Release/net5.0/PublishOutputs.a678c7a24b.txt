@@ -1,0 +1,5 @@
+F:\CSharp\DecimalConverter\DecimalConverter\bin\Release\net5.0\publish\DecimalConverter.exe
+F:\CSharp\DecimalConverter\DecimalConverter\bin\Release\net5.0\publish\DecimalConverter.dll
+F:\CSharp\DecimalConverter\DecimalConverter\bin\Release\net5.0\publish\DecimalConverter.deps.json
+F:\CSharp\DecimalConverter\DecimalConverter\bin\Release\net5.0\publish\DecimalConverter.runtimeconfig.json
+F:\CSharp\DecimalConverter\DecimalConverter\bin\Release\net5.0\publish\DecimalConverter.pdb
